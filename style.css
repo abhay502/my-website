@@ -1,0 +1,26 @@
+
+
+.hey{
+   font-family: monospace;
+   font-style: italic;
+   text-align: center;
+}
+
+.background{
+    background-color: bisque;
+}
+.audio{
+    margin-left: 38%;
+    margin-top: 10%;
+}
+.button{
+    margin-left: 46%;
+    margin-top: 10%;
+    background-color: rgb(226, 241, 241);
+    border-radius: 5px;
+    
+}
+.good{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
